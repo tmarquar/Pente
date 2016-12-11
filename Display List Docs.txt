@@ -1,0 +1,4 @@
+1 = Board
+2 = white stone
+3 = black stone
+4 = Select

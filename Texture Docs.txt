@@ -1,0 +1,7 @@
+0 = Board Border (grey)
+1 = white stone
+2 = black stone
+3 = Board (red)
+4 = Select
+5 = captured_white_surface
+6 = captured_black_surface
